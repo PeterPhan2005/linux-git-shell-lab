@@ -1,0 +1,4 @@
+github	https://github.com/PeterPhan2005/linux-git-shell-lab.git (fetch)
+github	https://github.com/PeterPhan2005/linux-git-shell-lab.git (push)
+origin	/home/peterphan/git_repos/myproject.git (fetch)
+origin	/home/peterphan/git_repos/myproject.git (push)
