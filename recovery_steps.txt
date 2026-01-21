@@ -1,0 +1,6 @@
+CÁC BƯỚC PHỤC HỒI DỰ ÁN (TASK 5):
+1. Giả lập lỗi: Xóa README.md và commit thay đổi sai.
+2. Kiểm tra log: Sử dụng 'git log --oneline' để xác nhận commit lỗi.
+3. Phục hồi: Sử dụng 'git reset --hard HEAD~1' để quay về trạng thái trước khi xóa.
+4. Kiểm tra lại: Dùng 'ls' để xác nhận README.md đã quay trở lại.
+5. Sử dụng 'git reflog' để xem lại lịch sử các thao tác cứu hộ.

@@ -1,0 +1,11 @@
+Line 1: service started
+Line 2: user login
+Line 3: error: failed to load module
+Line 4: connection established
+Line 5: error: timeout
+Line 4: connection established
+Line 5: error: timeout
+Line 6: service stopped
+6 log.txt
+3:Line 3: error: failed to load module
+5:Line 5: error: timeout
